@@ -1,0 +1,1 @@
+# atom-keyboard-shortcuts-german-keyboard
