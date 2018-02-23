@@ -1,5 +1,3 @@
-# atom-keyboard-shortcuts-german-keyboard
-
 # Key to the Keys
 - ⌘ : Command key
 - ⌃ : Control key
